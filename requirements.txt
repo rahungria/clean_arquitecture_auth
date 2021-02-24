@@ -1,0 +1,8 @@
+flask
+python-dotenv
+bcrypt
+psycopg2-binary
+pyjwt
+
+ipython
+jedi < 0.18
